@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    build: ./
+    image: abdulnizam/axelerant
+    ports:
+      - "3001:3001"

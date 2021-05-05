@@ -40,5 +40,8 @@
   "bugs": {
     "url": "https://github.com/abdulnizam/axelerant-Interview-Front-end/issues"
   },
-  "homepage": "https://github.com/abdulnizam/axelerant-Interview-Front-end#readme"
+  "homepage": "https://github.com/abdulnizam/axelerant-Interview-Front-end#readme",
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  }
 }
